@@ -34,7 +34,7 @@ In PEAR status of this package is: %{_status}.
 Przewijaj±ca siê etykieta (scrolling label) dla Gtk2. Ta klasa
 dostarcza prostego, ³atwego do zrozumienia API do ustawiania i
 kontrolowania takiej etykiety. Pozwala na ustawienie przewijania w
-dowolnym kierunku, uruchamiania lub zatrzymwania przewijania,
+dowolnym kierunku, uruchamiania lub zatrzymywania przewijania,
 ustawienie i pobieranie tekstu oraz jego w³a¶ciwo¶ci.
 
 Ta klasa ma w PEAR status: %{_status}.
