@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.php
 %define		_status		beta
 %define		_pearname	Gtk2_ScrollingLabel
 Summary:	%{_pearname} - a scrolling label for PHP-Gtk2
